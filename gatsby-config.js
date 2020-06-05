@@ -203,5 +203,11 @@ module.exports = {
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-151954055-2',
+      }
+    },
   ]
 };
