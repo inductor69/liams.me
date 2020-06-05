@@ -7,6 +7,6 @@ slug: "hello-world"
 category: "Introduction"
 tags:
   - "hello"
-description: "Just a small posts about what you can expect from this blog in the future."
+description: "Just a small post about what you can expect from this blog in the future."
 ---
 My first ever blog post! If you haven't already read the about section, you find find it [here](/pages/about). You can expect posts about my interests in tech, books and other stuff in the future.
