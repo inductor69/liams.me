@@ -9,9 +9,9 @@ I am a second year student studying Computer Science at [John Abbott College](ht
 
 ### Tech
 
-- Web Development (React)
+- Fullstack Web Development (React, NodeJS)
 - Competitive Programming (Python , C++)
-- Machine Learning (Python, Tensorflow)
+- Machine Learning
 - Blockchain (Cryptocurrency, Decentralized Systems)
 
 ### Books

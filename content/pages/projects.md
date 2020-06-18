@@ -6,6 +6,28 @@ socialImage: "/media/image-2.jpg"
 
 All of my up to date projects and open source contributions can be found on my [Github](https://www.github.com/terror) profile, however, here is a list of recent projects I have worked on.
 
+## COVID 19 Simulation
+- May 2020
+- Github: [Code](https://github.com/terror/COVID-Bubble-Simulation)
+- Technologies used: HTML5, CSS3, Javascript, Canvas
+
+My User Interfaces Final Project. Developed by myself and a friend, we created a user interface for simulating the COVID 19 Pandemic with bubbles.
+
+<div style="text-align:center;">
+<img src="/media/covid19-simulation.gif">
+</div>
+
+## Video Game Poker
+- May 2020
+- Github: [Code](https://github.com/terror/Video-Game-Poker)
+- Technologies used: C#, Visual Studio
+
+My Programming II Final Project. The card game Video Game Poker written in C# utilizing Oject Oriented Programming, Functional Decomposition and various Searching/Sorting algorithms for hand detection.
+
+<div style="text-align:center;">
+<img src="/media/video-game-poker.gif">
+</div>
+
 ## Solutions
 - May 2020
 - Github: [Code](https://www.github.com/terror/solutions)
