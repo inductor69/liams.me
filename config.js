@@ -29,7 +29,7 @@ module.exports = {
 	],
 	author: {
 		name: 'Liam Scalzulli',
-		photo: '/photo.jpeg',
+		photo: '/avi.gif',
 		bio: 'Aspiring Software Engineer, Competitive Programmer, Student',
 		contacts: {
 			email: 'liam.scalzulli@johnabbottcollege.net',

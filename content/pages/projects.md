@@ -9,7 +9,7 @@ All of my up to date projects and open source contributions can be found on my [
 ## COVID 19 Simulation
 - May 2020
 - Github: [Code](https://github.com/terror/COVID-Bubble-Simulation)
-- Technologies used: HTML5, CSS3, Javascript, Canvas
+- Technologies used: HTML5, CSS3, Javascript, Bootstrap, Canvas
 
 My User Interfaces Final Project. Developed by myself and a friend, we created a user interface for simulating the COVID 19 Pandemic with bubbles.
 

@@ -209,5 +209,19 @@ module.exports = {
         trackingId: 'UA-151954055-2',
       }
     },
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          {
+            resolve: 'gatsby-remark-embed-gist',
+            options: {
+              username: 'terror',
+              includeDefaultCss: true
+            }
+          }
+        ]
+      }
+    }
   ]
 };
