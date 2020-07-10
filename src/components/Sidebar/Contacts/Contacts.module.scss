@@ -1,5 +1,5 @@
-@import '../../../assets/scss/variables';
-@import '../../../assets/scss/mixins';
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
 
 .contacts {
   @include margin-bottom(1);
@@ -24,24 +24,21 @@
       height: $button-height;
       width: $button-height;
       line-height: $button-height;
-      border-radius: 50%;
+      border-radius: 10%;
       text-align: center;
       border: 1px solid $color-gray-bg;
+      background-color: #ebebeb;
 
       &-link {
         border: 0;
         display: flex;
         color: $color-base;
-  
+
         &:hover,
         &:focus {
           color: $color-primary;
         }
-
       }
-
     }
-
   }
-
 }
